@@ -194,12 +194,12 @@ img {
     box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
 }
 .logo-img {
-    background-image: url(../images/logo.png);
+    background-image: url(../images/second_logo.png);
     background-position: center;
     background-repeat: no-repeat;
     background-size: contain;
-    height: 35px;
-    width: 250px;
+    height: 55px;
+    width: 260px;
     filter: brightness(0) invert(1);
 }
 .fixed .logo-img {
